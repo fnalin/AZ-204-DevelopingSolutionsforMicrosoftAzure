@@ -21,6 +21,7 @@
 | Azure Functions Core Tools | <https://docs.microsoft.com/azure/azure-functions/functions-run-local#v3> |
 | Windows Terminal | <https://aka.ms/terminal> |
 | Edge (Chromium) | <https://www.microsoft.com/edge> |
+| GIT | <https://git-scm.com/downloads>
 
 ## Additional Configuration
 
